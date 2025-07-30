@@ -19,5 +19,5 @@ You can currently launch the robot in Gazebo using the provided launch files:
 
 ```bash
 ros2 launch arduinobot_description gazebo.launch.py
-
+```
 However, the method of loading the files will defer based on the user and their version of linux and Ubuntu. Therefore a full process is not available yet and will be worked on in the near future.
